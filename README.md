@@ -35,7 +35,7 @@
 
 📧 ruonaogrih@gmail.com  
 📍 New York, NY  
-🔗 [LinkedIn](https://www.linkedin.com/in/ruona-ogrih/) | [GitHub](https://github.com/ruona-ogrih)
+🔗 [LinkedIn]([https://www.linkedin.com/in/ruona-ogrih/](https://www.linkedin.com/in/ruona-ogrih-967595230/)) | [GitHub](https://github.com/ruona-ogrih)
 <!--
 **ruona-ogrih/ruona-ogrih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
